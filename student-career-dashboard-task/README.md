@@ -4,6 +4,7 @@ A responsive dashboard that shows a student's completed projects, certificates, 
 
 ## Links
 - Figma file: https://www.figma.com/design/hRanpyShdOjQx3TVQoqB4K/Student-Career-Progress-Dashboard?node-id=1-2&t=7YWGvUU4wnnR9Jg4-1
+- Case study (Behance): https://www.behance.net/gallery/258187979/Student-Career-Progress-Dashboard-UIUX-Case-Study
 - Walkthrough video: https://drive.google.com/file/d/11FDSjNATfzl-orm847IwScToMrJtEH-I/view?usp=drive_link
 
 ## Screens
