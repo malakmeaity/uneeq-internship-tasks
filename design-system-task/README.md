@@ -3,8 +3,8 @@
 A small, reusable UI system for the UneeQ student career dashboard, with accessible components and documentation.
 
 ## Links
-- Figma file: https://www.figma.com/design/QvMwtmv6dijauM1UP6S5S8/UneeQ-Design-System?node-id=14-2&t=Pvu8DEDpkd0eTZFf-1
-- Walkthrough video: [PASTE VIDEO LINK]
+- Figma file: https://www.figma.com/design/QvMwtmv6dijauM1UP6S5S8/UneeQ-Design-System?node-id=0-1&t=qnTisLSN793W2nPR-1
+- Walkthrough video: https://drive.google.com/file/d/1yGoKJVUDPcfK153ArXyci85ETIlMYQAv/view?usp=sharing
 
 ## Foundations
 Typography, spacing, radius and color tokens.
